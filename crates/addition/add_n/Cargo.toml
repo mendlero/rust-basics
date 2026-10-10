@@ -1,0 +1,12 @@
+[package]
+name = "add_n"
+version = "0.0.3"
+edition = "2024"
+license="MIT OR Apache-2.0"
+description="A crate to add n to a number ;)"
+readme = "README.md"
+repository="https://github.com/mendlero/rust-basics"
+keywords=["addition", "add-n", "arithmetic", "algebra", "fields"]
+workspace="../../.."
+
+[dependencies]
